@@ -2,6 +2,8 @@
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.  
 
+This is my port of the theme to Middleman.
+
 Each section has been separated in to individual partials for easy removal, rearranging, etc. 
 A yaml data file for each section exists in the `data` folder.
 
