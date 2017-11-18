@@ -1,0 +1,33 @@
+skills:
+
+  -
+    icon: html5
+  -
+    icon: css3
+  -
+    icon: joomla
+  -
+    icon: ruby
+  -
+    icon: sass
+  -
+    icon: less
+  -
+    icon: bootstrap
+  -
+    icon: wordpress
+  -
+    icon: grunt
+  -
+    icon: gulp
+
+workflow:
+
+  -
+    item: Mobile-First, Responsive Design
+  -
+    item: Cross Browser Testing &amp; Debugging
+  -
+    item: Cross Functional Teams
+  -
+    item: Agile Development &amp; Scrum

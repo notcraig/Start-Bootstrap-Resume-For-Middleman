@@ -1,0 +1,24 @@
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+        <div class="my-auto">
+          <h2 class="mb-5">Skills</h2>
+
+          <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+          <ul class="list-inline list-icons">
+            <% data.skills.skills.each do |i| %>
+            <li class="list-inline-item">
+              <i class="devicons devicons-<%= i.icon %>"></i>
+            </li>
+            <% end %>
+            
+          </ul>
+
+          <div class="subheading mb-3">Workflow</div>
+          <ul class="fa-ul mb-0">
+            <% data.skills.workflow.each do |w| %>
+            <li>
+              <i class="fa-li fa fa-check"></i>
+              <%= w.item %></li>
+            <% end %>
+          </ul>
+        </div>
+      </section>

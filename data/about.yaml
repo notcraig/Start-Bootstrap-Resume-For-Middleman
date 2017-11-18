@@ -1,0 +1,26 @@
+first_name: Start Bootstrap
+last_name: Resume For Middleman
+street: 1234 Ruby Rd
+city: Phoenix, AZ
+zipcode: 85249
+phone: (555) 123-4567
+email: 'name@email.com'
+blurb: "A nice one page resume theme by Start Bootstrap.<br>Any section can be ommited and each section's content is in a corresponding yaml data file."
+
+social:
+  -
+    url: https://github.com
+    username: github
+    icon: github
+  -
+    url: https://fb.me
+    username: middleman
+    icon: facebook
+  -
+    url: https://linkedin.com
+    username: Middle Man
+    icon: linkedin
+  -
+    url: https://twitter.com
+    username: middlemanapp
+    icon: twitter

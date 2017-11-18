@@ -1,0 +1,23 @@
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h1 class="mb-0"><%= data.about.first_name %>
+            <span class="text-primary"><%= data.about.last_name %></span>
+          </h1>
+          <div class="subheading mb-5"><%= data.about.street %> · <%= data.about.city %> <%= data.about.zipcode %> · <%= data.about.phone %> ·
+            <a href="mailto:<%= data.about.email %>"><%= data.about.email %></a>
+          </div>
+          <p class="mb-5"><%= data.about.blurb %></p>
+          <ul class="list-inline list-social-icons mb-0">
+          <% data.about.social.each do |x| %>
+            <li class="list-inline-item">
+              <a href="<%= x.url %>/<%= x.username %>">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-<%= x.icon %> fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+		  <% end %>
+          </ul>
+        </div>
+      </section>

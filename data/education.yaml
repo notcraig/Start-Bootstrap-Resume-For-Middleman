@@ -1,0 +1,15 @@
+school:
+
+  -
+    institute: University of Colorado Boulder
+    major: Computer Science - Web Development Track
+    degree: Bachelor of Science
+    gpa: 3.23
+    attended: August 2006 - May 2010
+
+  -
+    institute: James Buchanan High School
+    major: Technology Magnent Program
+    degree: Diploma
+    gpa: 3.56
+    attended: August 2002 - May 2006
