@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Resume Preview](/blob/master/screenshot.png)
+![Resume Preview](https://github.com/aroaminggeek/Start-Bootstrap-Resume-For-Middleman/blob/master/screenshot.png)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
