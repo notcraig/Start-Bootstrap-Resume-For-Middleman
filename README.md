@@ -9,9 +9,9 @@ A yaml data file for each section exists in the `data` folder.
 
 ## Preview
 
-![Resume Preview](https://github.com/fuzzyinterval/Start-Bootstrap-Resume-For-Middleman/blob/master/screenshot.png)
+![Resume Preview](https://github.com/gnotc/Start-Bootstrap-Resume-For-Middleman/blob/master/screenshot.png)
 
-**[View Live Preview](https://demo.fuzzylogic.studio/middleman/resume/)**
+**[View Live Preview](https://demo.gnotc.com/middleman/resume/)**
 
 
 ## About
